@@ -7,11 +7,18 @@ Form created for the Introduction to the Responsive Web Design Projects, this pr
 
 -Add the grey thin line below the title
 
--Add semantic tags
+-Add semantic 
+
 -Apply a style guide(BEM, SMACSS, etc)
+
 -Apply tooling
+
 -Apply PostCSS, Sass
+
 -Testing
+
 -Upload to Netlify
+
 -The title needs to be fixed
+
 -Touch animation when the user clicks the select inputs and the submit button
