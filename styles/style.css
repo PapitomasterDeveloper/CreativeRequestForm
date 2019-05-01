@@ -1,0 +1,37 @@
+html {
+	background-color: #58C6A7;
+	padding: 2.5em;
+	margin: 2.5em;
+}
+
+.container {
+	backgrouFFFFFF;
+	padding: 0 !important;
+}
+
+.header-line {
+	background-color: #58C6A7;
+	padding: 0.8em;
+	display: block;
+	width: inherit;
+	filter: brightness(110%);
+}
+
+.title {
+	/*border-bottom: 5px solid red !important;*/
+}
+/*.bottom-line {
+	background-color: #9A9DA1;
+	padding: 0.1em;
+	width: 43em;
+	display: block;
+	margin-right: -15px;
+}*/
+
+.row {
+	padding: 1em;
+}
+
+.marks {
+	color: #F50057;
+}

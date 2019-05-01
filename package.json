@@ -1,0 +1,23 @@
+{
+  "name": "creative-request-form",
+  "version": "1.0.0",
+  "description": "Form created for the Introduction to the Responsive Web Design Projects, this project consist on creating a survey form, I made the choice of using just Bootstrap for practice purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitomasterDeveloper/CreativeRequestForm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitomasterDeveloper/CreativeRequestForm/issues"
+  },
+  "homepage": "https://github.com/PapitomasterDeveloper/CreativeRequestForm#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
